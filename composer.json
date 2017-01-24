@@ -1,0 +1,9 @@
+{
+    "require": {
+        "twig/twig": "^1.29",
+        "silex/silex": "~2.0"
+    },
+    "config": {
+        "optimize-autoloader": true
+    }
+}
